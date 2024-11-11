@@ -1,0 +1,48 @@
+body{
+  
+}
+.cardcontainer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+ 
+ 
+  
+}
+.title{
+  font-size: 60px;
+  margin-top: 10px;
+}
+.card h1{
+  text-shadow:0 2px 4px rgba(0,0,0,0.2) ;
+}
+p{
+  font-family: cursive;
+  text-align: justify;
+  padding: 5px;
+  line-height: 1.5;
+}
+
+img{
+  width: 320px;
+  height: 300px;
+  border-radius: 5px;
+}
+.container{
+
+  padding:40px;
+  text-align: center;
+}
+.card{
+  
+  width: 350px;
+  margin: 20px;
+  padding: 10px;
+  
+    border: 2px solid rgba(245, 245, 220, 1);
+    border-radius: 10px; 
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+  
+ 
+  
+}
